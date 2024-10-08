@@ -14,7 +14,7 @@ const Bot = () => {
                         Poland<br />
                         Tax number: 1182255811<br />
                         +48 883 622 887<br />
-                        info@one-more-tree.org
+                        info@one-more-treee.org
                     </div>
 
             <div className="flex flex-row justify-center pl-10 text-center p-5 gap-2">
